@@ -1,4 +1,7 @@
-## Olá eu sou a Edimar Nóbrega
+
+### Hi there 👋.
+
+My name is Edimar Nóbrega and I´m experienced fullstack developer.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edimardantasnobrega&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
